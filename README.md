@@ -138,6 +138,13 @@ into the MCP.
 .\.venv\Scripts\python.exe -m unittest discover -s tests -v
 ```
 
+## Credits
+
+Built together by Celia and OpenAI Codex.
+
+Celia led the product direction and live client validation. Codex assisted
+with reverse engineering, implementation, and testing.
+
 ## License
 
 [MIT](LICENSE)
